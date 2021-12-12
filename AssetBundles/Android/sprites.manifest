@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3195835961
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a26fbd3556e0c7b0836e73ec3d8effbb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c90fc19e2679e5295d10bd00f33cb4c3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources_Moved/Sprites/Kite.png
+- Assets/Resources_Moved/Sprites/Short Lazer Ship.png
+- Assets/Resources_Moved/Sprites/Red assaulter.png
+- Assets/Resources_Moved/Sprites/Boomerang wing.png
+Dependencies: []
